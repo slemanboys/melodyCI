@@ -1,4 +1,4 @@
-# melodiCI  
+# melodyCI  
 ![](https://img.shields.io/badge/c-melody-purple) ![](https://img.shields.io/github/last-commit/sinkaroid/melodyCI)  
 
 ```php
