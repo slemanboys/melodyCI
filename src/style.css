@@ -1,0 +1,102 @@
+
+
+.bokong {
+  margin: auto;
+  text-align: center;
+  width: 100%;
+  padding: 1px;
+}
+
+.koceng {
+  display: inline-block;
+  text-align: left;
+ }
+
+ div.rounded {
+   
+    border: 3px dotted gray;
+    margin: auto;
+  width: 70%;
+	color: #000000;
+	font-weight: bold;
+    padding: 1px;
+    
+	-moz-border-radius: 5px;
+    -webkit-border-radius: 10px; }
+    
+    div.kotak {
+	background-color: silver;
+    margin: auto;
+  width: 30%;
+	color: #000000;
+    padding: 1px;
+    
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 20px; }   
+   
+  body { 
+  background: black url("inc/a.png") no-repeat fixed center; 
+}
+
+.intro {
+  margin: auto;
+  background-color: #f7f3f3;
+  width: 30%;
+  
+  padding: 10px;
+  -moz-border-radius: 5px;
+	-webkit-border-radius: 20px;
+}
+
+.memek {
+  margin: auto;
+  background-color: #f7f3f3;
+  width: 40%;
+  
+  padding: 10px;
+  -moz-border-radius: 5px;
+	-webkit-border-radius: 30px;
+}
+
+.pepek {
+  margin: auto;
+  background-color: #f7f3f3;
+  width: 20%;
+  
+  padding: 10px;
+  -moz-border-radius: 5px;
+	-webkit-border-radius: 30px;
+}
+
+img {
+   border-radius: 50%;
+   border: 2px solid gold;
+   padding: 1px;
+   width: 150px;
+   height: 150px;
+  
+ }
+ img:hover {
+   -webkit-transform: rotate(1000deg) scale(1.0);
+	 transform: rotate(1000deg) scale(1.0);
+	 -webkit-transition: .8s ease-in-out;
+	 transition: .8s ease-in-out;
+ }
+
+ #steal a{
+  padding:5px 5px;
+  margin:1;
+  background:white;
+  text-decoration:none;
+  letter-spacing:1px;
+  -moz-border-radius: 10px; -webkit-border-radius: 5px; -khtml-border-radius: 5px; border-radius: 5px;
+}
+#steal a:hover{
+  background:green;
+  border-bottom:5px solid #red;
+  border-top:5px solid #red;
+}
+
+a {
+  color: goldenrod;
+}
